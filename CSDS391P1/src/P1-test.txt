@@ -1,0 +1,12 @@
+setState 412 3b5 678
+move up
+printstate
+setState 412 3b5 678
+move down
+printstate
+setState 412 3b5 678
+move right
+printstate
+setState 412 3b5 678
+move left
+printstate
